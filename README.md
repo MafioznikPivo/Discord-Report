@@ -1,4 +1,4 @@
-# Sataki Report
+# Discord Report
 
 Discord-бот на `disnake` для модерации сервера с двумя основными сценариями:
 
